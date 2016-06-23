@@ -1,0 +1,545 @@
+<root xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <area>
+    <AreaStatus-Id>1</AreaStatus-Id>
+    <AreaStatus-Areanum>1</AreaStatus-Areanum>
+    <AreaStatus-Areaname>Control Area</AreaStatus-Areaname>
+    <AreaStatus-Extents>1</AreaStatus-Extents>
+  </area>
+  <area>
+    <AreaStatus-Id>2</AreaStatus-Id>
+    <AreaStatus-Areanum>3</AreaStatus-Areanum>
+    <AreaStatus-Areaname>Primary Recovery Area</AreaStatus-Areaname>
+    <AreaStatus-Extents>2</AreaStatus-Extents>
+  </area>
+  <area>
+    <AreaStatus-Id>3</AreaStatus-Id>
+    <AreaStatus-Areanum>6</AreaStatus-Areanum>
+    <AreaStatus-Areaname>Schema Area</AreaStatus-Areaname>
+    <AreaStatus-Extents>1</AreaStatus-Extents>
+  </area>
+  <area>
+    <AreaStatus-Id>4</AreaStatus-Id>
+    <AreaStatus-Areanum>7</AreaStatus-Areanum>
+    <AreaStatus-Areaname>Table Area</AreaStatus-Areaname>
+    <AreaStatus-Extents>30</AreaStatus-Extents>
+  </area>
+  <area>
+    <AreaStatus-Id>5</AreaStatus-Id>
+    <AreaStatus-Areanum>8</AreaStatus-Areanum>
+    <AreaStatus-Areaname>Index Area</AreaStatus-Areaname>
+    <AreaStatus-Extents>14</AreaStatus-Extents>
+  </area>
+  <db>
+    <DbStatus-BiBlkSize>8192</DbStatus-BiBlkSize>
+    <DbStatus-BiClSize>16384</DbStatus-BiClSize>
+    <DbStatus-BiOpen>Mon Mar 14 20:59:30 2016</DbStatus-BiOpen>
+    <DbStatus-DbBlkSize>8192</DbStatus-DbBlkSize>
+    <DbStatus-FbDate>Sat Mar 12 00:28:21 2016</DbStatus-FbDate>
+    <DbStatus-IbDate xsi:nil="true"/>
+    <DbStatus-NumLocks>2</DbStatus-NumLocks>
+    <DbStatus-NumSems>89</DbStatus-NumSems>
+    <DbStatus-Starttime>Mon Mar 14 20:59:12 2016</DbStatus-Starttime>
+    <DbStatus-State>1</DbStatus-State>
+    <DbStatus-Tainted>0</DbStatus-Tainted>
+  </db>
+  <record>
+    <Record-BytesCreat>32898239</Record-BytesCreat>
+    <Record-BytesDel>32854164</Record-BytesDel>
+    <Record-BytesRead>14341148476</Record-BytesRead>
+    <Record-BytesUpd>3575108</Record-BytesUpd>
+    <Record-RecCreat>107174</Record-RecCreat>
+    <Record-RecDel>192328</Record-RecDel>
+    <Record-RecRead>56338806</Record-RecRead>
+    <Record-RecUpd>223395</Record-RecUpd>
+    <Record-Trans>77512</Record-Trans>
+    <Record-UpTime>77331</Record-UpTime>
+  </record>
+  <connect>
+    <Connect-Id>1</Connect-Id>
+    <Connect-Name>root</Connect-Name>
+    <Connect-ClientType/>
+  </connect>
+  <connect>
+    <Connect-Id>2</Connect-Id>
+    <Connect-Name>root</Connect-Name>
+    <Connect-ClientType/>
+  </connect>
+  <connect>
+    <Connect-Id>3</Connect-Id>
+    <Connect-Name>root</Connect-Name>
+    <Connect-ClientType/>
+  </connect>
+  <connect>
+    <Connect-Id>4</Connect-Id>
+    <Connect-Name>root</Connect-Name>
+    <Connect-ClientType/>
+  </connect>
+  <connect>
+    <Connect-Id>5</Connect-Id>
+    <Connect-Name>root</Connect-Name>
+    <Connect-ClientType/>
+  </connect>
+  <connect>
+    <Connect-Id>6</Connect-Id>
+    <Connect-Name>root</Connect-Name>
+    <Connect-ClientType/>
+  </connect>
+  <connect>
+    <Connect-Id>7</Connect-Id>
+    <Connect-Name>root</Connect-Name>
+    <Connect-ClientType/>
+  </connect>
+  <connect>
+    <Connect-Id>8</Connect-Id>
+    <Connect-Name>root</Connect-Name>
+    <Connect-ClientType/>
+  </connect>
+  <connect>
+    <Connect-Id>9</Connect-Id>
+    <Connect-Name>root</Connect-Name>
+    <Connect-ClientType/>
+  </connect>
+  <connect>
+    <Connect-Id>10</Connect-Id>
+    <Connect-Name>root</Connect-Name>
+    <Connect-ClientType/>
+  </connect>
+  <connect>
+    <Connect-Id>11</Connect-Id>
+    <Connect-Name>root</Connect-Name>
+    <Connect-ClientType/>
+  </connect>
+  <connect>
+    <Connect-Id>12</Connect-Id>
+    <Connect-Name>root</Connect-Name>
+    <Connect-ClientType/>
+  </connect>
+  <connect>
+    <Connect-Id>13</Connect-Id>
+    <Connect-Name>root</Connect-Name>
+    <Connect-ClientType/>
+  </connect>
+  <connect>
+    <Connect-Id>14</Connect-Id>
+    <Connect-Name>root</Connect-Name>
+    <Connect-ClientType/>
+  </connect>
+  <connect>
+    <Connect-Id>15</Connect-Id>
+    <Connect-Name>root</Connect-Name>
+    <Connect-ClientType/>
+  </connect>
+  <connect>
+    <Connect-Id>16</Connect-Id>
+    <Connect-Name>root</Connect-Name>
+    <Connect-ClientType/>
+  </connect>
+  <connect>
+    <Connect-Id>17</Connect-Id>
+    <Connect-Name>root</Connect-Name>
+    <Connect-ClientType/>
+  </connect>
+  <connect>
+    <Connect-Id>18</Connect-Id>
+    <Connect-Name>root</Connect-Name>
+    <Connect-ClientType/>
+  </connect>
+  <connect>
+    <Connect-Id>19</Connect-Id>
+    <Connect-Name>root</Connect-Name>
+    <Connect-ClientType/>
+  </connect>
+  <connect>
+    <Connect-Id>20</Connect-Id>
+    <Connect-Name>root</Connect-Name>
+    <Connect-ClientType/>
+  </connect>
+  <connect>
+    <Connect-Id>21</Connect-Id>
+    <Connect-Name>root</Connect-Name>
+    <Connect-ClientType/>
+  </connect>
+  <connect>
+    <Connect-Id>22</Connect-Id>
+    <Connect-Name>root</Connect-Name>
+    <Connect-ClientType/>
+  </connect>
+  <connect>
+    <Connect-Id>23</Connect-Id>
+    <Connect-Name>root</Connect-Name>
+    <Connect-ClientType/>
+  </connect>
+  <connect>
+    <Connect-Id>24</Connect-Id>
+    <Connect-Name>root</Connect-Name>
+    <Connect-ClientType/>
+  </connect>
+  <connect>
+    <Connect-Id>25</Connect-Id>
+    <Connect-Name>root</Connect-Name>
+    <Connect-ClientType/>
+  </connect>
+  <connect>
+    <Connect-Id>26</Connect-Id>
+    <Connect-Name>root</Connect-Name>
+    <Connect-ClientType/>
+  </connect>
+  <connect>
+    <Connect-Id>27</Connect-Id>
+    <Connect-Name>root</Connect-Name>
+    <Connect-ClientType/>
+  </connect>
+  <connect>
+    <Connect-Id>28</Connect-Id>
+    <Connect-Name>root</Connect-Name>
+    <Connect-ClientType/>
+  </connect>
+  <connect>
+    <Connect-Id>29</Connect-Id>
+    <Connect-Name xsi:nil="true"/>
+    <Connect-ClientType xsi:nil="true"/>
+  </connect>
+  <connect>
+    <Connect-Id>30</Connect-Id>
+    <Connect-Name xsi:nil="true"/>
+    <Connect-ClientType xsi:nil="true"/>
+  </connect>
+  <connect>
+    <Connect-Id>31</Connect-Id>
+    <Connect-Name xsi:nil="true"/>
+    <Connect-ClientType xsi:nil="true"/>
+  </connect>
+  <connect>
+    <Connect-Id>32</Connect-Id>
+    <Connect-Name>root</Connect-Name>
+    <Connect-ClientType/>
+  </connect>
+  <connect>
+    <Connect-Id>33</Connect-Id>
+    <Connect-Name>root</Connect-Name>
+    <Connect-ClientType/>
+  </connect>
+  <connect>
+    <Connect-Id>34</Connect-Id>
+    <Connect-Name>root</Connect-Name>
+    <Connect-ClientType/>
+  </connect>
+  <connect>
+    <Connect-Id>35</Connect-Id>
+    <Connect-Name xsi:nil="true"/>
+    <Connect-ClientType xsi:nil="true"/>
+  </connect>
+  <connect>
+    <Connect-Id>36</Connect-Id>
+    <Connect-Name>gborow</Connect-Name>
+    <Connect-ClientType>ABL </Connect-ClientType>
+  </connect>
+  <connect>
+    <Connect-Id>37</Connect-Id>
+    <Connect-Name xsi:nil="true"/>
+    <Connect-ClientType xsi:nil="true"/>
+  </connect>
+  <connect>
+    <Connect-Id>38</Connect-Id>
+    <Connect-Name xsi:nil="true"/>
+    <Connect-ClientType xsi:nil="true"/>
+  </connect>
+  <connect>
+    <Connect-Id>39</Connect-Id>
+    <Connect-Name xsi:nil="true"/>
+    <Connect-ClientType xsi:nil="true"/>
+  </connect>
+  <connect>
+    <Connect-Id>40</Connect-Id>
+    <Connect-Name xsi:nil="true"/>
+    <Connect-ClientType xsi:nil="true"/>
+  </connect>
+  <connect>
+    <Connect-Id>41</Connect-Id>
+    <Connect-Name xsi:nil="true"/>
+    <Connect-ClientType xsi:nil="true"/>
+  </connect>
+  <connect>
+    <Connect-Id>42</Connect-Id>
+    <Connect-Name xsi:nil="true"/>
+    <Connect-ClientType xsi:nil="true"/>
+  </connect>
+  <connect>
+    <Connect-Id>43</Connect-Id>
+    <Connect-Name xsi:nil="true"/>
+    <Connect-ClientType xsi:nil="true"/>
+  </connect>
+  <connect>
+    <Connect-Id>44</Connect-Id>
+    <Connect-Name xsi:nil="true"/>
+    <Connect-ClientType xsi:nil="true"/>
+  </connect>
+  <connect>
+    <Connect-Id>45</Connect-Id>
+    <Connect-Name xsi:nil="true"/>
+    <Connect-ClientType xsi:nil="true"/>
+  </connect>
+  <connect>
+    <Connect-Id>46</Connect-Id>
+    <Connect-Name xsi:nil="true"/>
+    <Connect-ClientType xsi:nil="true"/>
+  </connect>
+  <connect>
+    <Connect-Id>47</Connect-Id>
+    <Connect-Name xsi:nil="true"/>
+    <Connect-ClientType xsi:nil="true"/>
+  </connect>
+  <connect>
+    <Connect-Id>48</Connect-Id>
+    <Connect-Name xsi:nil="true"/>
+    <Connect-ClientType xsi:nil="true"/>
+  </connect>
+  <connect>
+    <Connect-Id>49</Connect-Id>
+    <Connect-Name xsi:nil="true"/>
+    <Connect-ClientType xsi:nil="true"/>
+  </connect>
+  <connect>
+    <Connect-Id>50</Connect-Id>
+    <Connect-Name xsi:nil="true"/>
+    <Connect-ClientType xsi:nil="true"/>
+  </connect>
+  <connect>
+    <Connect-Id>51</Connect-Id>
+    <Connect-Name xsi:nil="true"/>
+    <Connect-ClientType xsi:nil="true"/>
+  </connect>
+  <connect>
+    <Connect-Id>52</Connect-Id>
+    <Connect-Name xsi:nil="true"/>
+    <Connect-ClientType xsi:nil="true"/>
+  </connect>
+  <connect>
+    <Connect-Id>53</Connect-Id>
+    <Connect-Name xsi:nil="true"/>
+    <Connect-ClientType xsi:nil="true"/>
+  </connect>
+  <connect>
+    <Connect-Id>54</Connect-Id>
+    <Connect-Name xsi:nil="true"/>
+    <Connect-ClientType xsi:nil="true"/>
+  </connect>
+  <connect>
+    <Connect-Id>55</Connect-Id>
+    <Connect-Name xsi:nil="true"/>
+    <Connect-ClientType xsi:nil="true"/>
+  </connect>
+  <connect>
+    <Connect-Id>56</Connect-Id>
+    <Connect-Name xsi:nil="true"/>
+    <Connect-ClientType xsi:nil="true"/>
+  </connect>
+  <connect>
+    <Connect-Id>57</Connect-Id>
+    <Connect-Name xsi:nil="true"/>
+    <Connect-ClientType xsi:nil="true"/>
+  </connect>
+  <connect>
+    <Connect-Id>58</Connect-Id>
+    <Connect-Name xsi:nil="true"/>
+    <Connect-ClientType xsi:nil="true"/>
+  </connect>
+  <connect>
+    <Connect-Id>59</Connect-Id>
+    <Connect-Name xsi:nil="true"/>
+    <Connect-ClientType xsi:nil="true"/>
+  </connect>
+  <connect>
+    <Connect-Id>60</Connect-Id>
+    <Connect-Name xsi:nil="true"/>
+    <Connect-ClientType xsi:nil="true"/>
+  </connect>
+  <connect>
+    <Connect-Id>61</Connect-Id>
+    <Connect-Name xsi:nil="true"/>
+    <Connect-ClientType xsi:nil="true"/>
+  </connect>
+  <connect>
+    <Connect-Id>62</Connect-Id>
+    <Connect-Name xsi:nil="true"/>
+    <Connect-ClientType xsi:nil="true"/>
+  </connect>
+  <connect>
+    <Connect-Id>63</Connect-Id>
+    <Connect-Name xsi:nil="true"/>
+    <Connect-ClientType xsi:nil="true"/>
+  </connect>
+  <connect>
+    <Connect-Id>64</Connect-Id>
+    <Connect-Name xsi:nil="true"/>
+    <Connect-ClientType xsi:nil="true"/>
+  </connect>
+  <connect>
+    <Connect-Id>65</Connect-Id>
+    <Connect-Name xsi:nil="true"/>
+    <Connect-ClientType xsi:nil="true"/>
+  </connect>
+  <connect>
+    <Connect-Id>66</Connect-Id>
+    <Connect-Name xsi:nil="true"/>
+    <Connect-ClientType xsi:nil="true"/>
+  </connect>
+  <connect>
+    <Connect-Id>67</Connect-Id>
+    <Connect-Name xsi:nil="true"/>
+    <Connect-ClientType xsi:nil="true"/>
+  </connect>
+  <connect>
+    <Connect-Id>68</Connect-Id>
+    <Connect-Name xsi:nil="true"/>
+    <Connect-ClientType xsi:nil="true"/>
+  </connect>
+  <connect>
+    <Connect-Id>69</Connect-Id>
+    <Connect-Name xsi:nil="true"/>
+    <Connect-ClientType xsi:nil="true"/>
+  </connect>
+  <connect>
+    <Connect-Id>70</Connect-Id>
+    <Connect-Name xsi:nil="true"/>
+    <Connect-ClientType xsi:nil="true"/>
+  </connect>
+  <connect>
+    <Connect-Id>71</Connect-Id>
+    <Connect-Name xsi:nil="true"/>
+    <Connect-ClientType xsi:nil="true"/>
+  </connect>
+  <connect>
+    <Connect-Id>72</Connect-Id>
+    <Connect-Name xsi:nil="true"/>
+    <Connect-ClientType xsi:nil="true"/>
+  </connect>
+  <connect>
+    <Connect-Id>73</Connect-Id>
+    <Connect-Name xsi:nil="true"/>
+    <Connect-ClientType xsi:nil="true"/>
+  </connect>
+  <connect>
+    <Connect-Id>74</Connect-Id>
+    <Connect-Name xsi:nil="true"/>
+    <Connect-ClientType xsi:nil="true"/>
+  </connect>
+  <connect>
+    <Connect-Id>75</Connect-Id>
+    <Connect-Name>fernando</Connect-Name>
+    <Connect-ClientType>ABL </Connect-ClientType>
+  </connect>
+  <connect>
+    <Connect-Id>76</Connect-Id>
+    <Connect-Name xsi:nil="true"/>
+    <Connect-ClientType xsi:nil="true"/>
+  </connect>
+  <connect>
+    <Connect-Id>77</Connect-Id>
+    <Connect-Name>costa</Connect-Name>
+    <Connect-ClientType>ABL </Connect-ClientType>
+  </connect>
+  <connect>
+    <Connect-Id>78</Connect-Id>
+    <Connect-Name>costa</Connect-Name>
+    <Connect-ClientType>ABL </Connect-ClientType>
+  </connect>
+  <connect>
+    <Connect-Id>79</Connect-Id>
+    <Connect-Name>costa</Connect-Name>
+    <Connect-ClientType>ABL </Connect-ClientType>
+  </connect>
+  <connect>
+    <Connect-Id>80</Connect-Id>
+    <Connect-Name>costa</Connect-Name>
+    <Connect-ClientType>ABL </Connect-ClientType>
+  </connect>
+  <connect>
+    <Connect-Id>81</Connect-Id>
+    <Connect-Name>costa</Connect-Name>
+    <Connect-ClientType>ABL </Connect-ClientType>
+  </connect>
+  <connect>
+    <Connect-Id>82</Connect-Id>
+    <Connect-Name xsi:nil="true"/>
+    <Connect-ClientType xsi:nil="true"/>
+  </connect>
+  <feature>
+    <DBFeature-ID>1</DBFeature-ID>
+    <DBFeature_Name>OpenEdge Replication</DBFeature_Name>
+    <DBFeature_Enabled>0</DBFeature_Enabled>
+    <DBFeature_Active>0</DBFeature_Active>
+  </feature>
+  <feature>
+    <DBFeature-ID>2</DBFeature-ID>
+    <DBFeature_Name>Failover Clusters</DBFeature_Name>
+    <DBFeature_Enabled>0</DBFeature_Enabled>
+    <DBFeature_Active>0</DBFeature_Active>
+  </feature>
+  <feature>
+    <DBFeature-ID>3</DBFeature-ID>
+    <DBFeature_Name>DataXtend Remote Edition</DBFeature_Name>
+    <DBFeature_Enabled>0</DBFeature_Enabled>
+    <DBFeature_Active>0</DBFeature_Active>
+  </feature>
+  <feature>
+    <DBFeature-ID>4</DBFeature-ID>
+    <DBFeature_Name>Reserved</DBFeature_Name>
+    <DBFeature_Enabled>0</DBFeature_Enabled>
+    <DBFeature_Active>0</DBFeature_Active>
+  </feature>
+  <feature>
+    <DBFeature-ID>5</DBFeature-ID>
+    <DBFeature_Name>Large Files</DBFeature_Name>
+    <DBFeature_Enabled>1</DBFeature_Enabled>
+    <DBFeature_Active>1</DBFeature_Active>
+  </feature>
+  <feature>
+    <DBFeature-ID>6</DBFeature-ID>
+    <DBFeature_Name>Database Auditing</DBFeature_Name>
+    <DBFeature_Enabled>0</DBFeature_Enabled>
+    <DBFeature_Active>0</DBFeature_Active>
+  </feature>
+  <feature>
+    <DBFeature-ID>7</DBFeature-ID>
+    <DBFeature_Name>JTA</DBFeature_Name>
+    <DBFeature_Enabled>0</DBFeature_Enabled>
+    <DBFeature_Active>0</DBFeature_Active>
+  </feature>
+  <feature>
+    <DBFeature-ID>8</DBFeature-ID>
+    <DBFeature_Name>After Image Mangement/Archiver</DBFeature_Name>
+    <DBFeature_Enabled>0</DBFeature_Enabled>
+    <DBFeature_Active>0</DBFeature_Active>
+  </feature>
+  <feature>
+    <DBFeature-ID>9</DBFeature-ID>
+    <DBFeature_Name>64 Bit DBKEYS</DBFeature_Name>
+    <DBFeature_Enabled>1</DBFeature_Enabled>
+    <DBFeature_Active>1</DBFeature_Active>
+  </feature>
+  <feature>
+    <DBFeature-ID>10</DBFeature-ID>
+    <DBFeature_Name>Large Keys</DBFeature_Name>
+    <DBFeature_Enabled>1</DBFeature_Enabled>
+    <DBFeature_Active>1</DBFeature_Active>
+  </feature>
+  <feature>
+    <DBFeature-ID>11</DBFeature-ID>
+    <DBFeature_Name>64 Bit Sequences</DBFeature_Name>
+    <DBFeature_Enabled>1</DBFeature_Enabled>
+    <DBFeature_Active>1</DBFeature_Active>
+  </feature>
+  <feature>
+    <DBFeature-ID>12</DBFeature-ID>
+    <DBFeature_Name>DataXtend Integration Edition</DBFeature_Name>
+    <DBFeature_Enabled>0</DBFeature_Enabled>
+    <DBFeature_Active>0</DBFeature_Active>
+  </feature>
+  <feature>
+    <DBFeature-ID>13</DBFeature-ID>
+    <DBFeature_Name>Encryption</DBFeature_Name>
+    <DBFeature_Enabled>0</DBFeature_Enabled>
+    <DBFeature_Active>0</DBFeature_Active>
+  </feature>
+</root>

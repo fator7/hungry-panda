@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Hymon</title>
+</head>
+<body>
+  <h1>Bem vindo ao Hymon</h1>
+ <!--  <div id="planet">
+    DB
+    <div id="satelite">
+      Hymon
+    </div>
+  </div> -->
+</body>
+</html>
+<style>
+
+body{
+  background-color: #2A7E43;
+  color: white;
+  font-style:
+}
+
+#planet {
+  background-color: #AA7239;
+  width: 100px;
+  height: 100px;
+  border-radius: 50px;
+  position: absolute;
+  left: 160px;
+  top: 160px;
+}
+
+#satelite {
+  background-color: #8F305B;
+  width: 50px;
+  height: 50px;
+  border-radius: 25px;
+  margin-left: 25px;
+  margin-top: 25px;
+  -webkit-animation-name: rotate;
+  -webkit-animation-timing-function: linear;
+  -webkit-animation-duration: 4s;
+  -webkit-animation-iteration-count: infinite;
+  animation-name: rotate;
+  animation-timing-function: linear;
+  animation-duration: 4s;
+  animation-iteration-count: infinite;
+}
+
+#satelite a {
+  display: block;
+  width: 100%;
+  height: 100%;
+}
+
+@-webkit-keyframes rotate {
+  from {
+    -webkit-transform: rotate(0deg) translateX(75px);
+  }
+  to {
+    -webkit-transform: rotate(-360deg) translateX(75px);
+  }
+}
+
+@keyframes rotate {
+  from {
+    transform: rotate(0deg) translateX(75px);
+  }
+  to {
+    transform: rotate(-360deg) translateX(75px);
+  }
+}
+
+#planet:hover #satelite {
+  -webkit-animation-play-state: paused;
+  animation-play-state: paused;
+}
+
+#satelite:hover {
+  box-shadow: 0 0 10px 0 lightsteelblue;
+  -webkit-animation-play-state: paused;
+  animation-play-state: paused;
+}
+
+</style>

@@ -1,0 +1,14 @@
+  {
+  "name": "Hymon",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "~4.13.0",
+    "express-load": "^1.1.15",
+    "mysql": "2.10.2",
+    "pixl-xml": "1.0.6"
+   }
+}
